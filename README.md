@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive path for Python re-familiarization, from basics to advanced concepts.
 
+It is open sourced using CC0.
+
 ### Current Structure
 - 010-020: Fundamentals (data types, control structures)
 - 030-037: Functions and type system
